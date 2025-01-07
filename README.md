@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
-            background-image: url('background.jpg'); /* تأكد من وجود الصورة */
+            background-image: url('myimage.jpg'); /* تأكد من وجود الصورة */
             background-size: cover;
             background-position: center;
             background-attachment: fixed;

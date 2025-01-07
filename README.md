@@ -1,5 +1,5 @@
 # sebha-abohamed
-<!DOCTYPE html>
+
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -112,7 +112,7 @@
         </div>
 
         <div class="footer">
-            <p>صمم الموقع بواسطة محبك في الله: باسم حمادة</p>
+            <p> صمم الموقع بواسطة محبك في الله:م. باسم حماده</p>
         </div>
     </div>
 
